@@ -145,7 +145,7 @@ def main():
         print(f"Dimension: {db_manager.dimension}")
         print(f"Index name: {db_manager.index_name}")
         
-        print("\n✅ Vector database setup completed successfully!")
+        print("\n Vector database setup completed successfully!")
         print(f"\nIndex Details:")
         print(f"  - Name: {INDEX_NAME}")
         print(f"  - Dimension: {DIMENSION}")
@@ -154,7 +154,7 @@ def main():
         print(f"  - Region: {REGION}")
         
     except Exception as e:
-        print(f"❌ Error setting up vector database: {str(e)}")
+        print(f" Error setting up vector database: {str(e)}")
         raise
 
 if __name__ == "__main__":
