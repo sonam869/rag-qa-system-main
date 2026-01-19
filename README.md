@@ -173,7 +173,7 @@ For issues or questions:
 # 🚀 RAG Q&A System - Track B Submission
 
 ### 🔗 Project Links
-* **Live App URL:** [https://rag-qa-system-main.streamlit.app/](https://rag-qa-system-main.streamlit.app/)
+* **Live App URL:** [https://rag-qa-system-main.streamlit.app/](https://rag-app-system-main.streamlit.app/)
 * **Resume Link:** [Click here to view my Resume](https://drive.google.com/file/d/1WuMTdeW3MFe5GI82d_x7aM-5gc_nsim3/view?usp=drivesdk)
 * **GitHub Repository:** [https://github.com/sonam869/rag-qa-system-main](https://github.com/sonam869/rag-qa-system-main)
 
