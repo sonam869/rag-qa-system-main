@@ -169,3 +169,17 @@ results = db.query_vectors(
 For issues or questions:
 - Pinecone Docs: https://docs.pinecone.io/
 - OpenAI Docs: https://platform.openai.com/docs/
+
+# 🚀 RAG Q&A System - Track B Submission
+
+### 🔗 Project Links
+* **Live App URL:** [https://rag-qa-system-main.streamlit.app/](https://rag-qa-system-main.streamlit.app/)
+* **Resume Link:** [Click here to view my Resume](https://drive.google.com/file/d/1WuMTdeW3MFe5GI82d_x7aM-5gc_nsim3/view?usp=drivesdk)
+* **GitHub Repository:** [https://github.com/sonam869/rag-qa-system-main](https://github.com/sonam869/rag-qa-system-main)
+
+---
+
+## 📝 Remarks
+- **Trade-offs:** Used local embeddings (FastEmbed) and reranking (FlashRank) to minimize API latency and costs.
+- **Limits:** The current Pinecone serverless index is limited to 2GB of storage.
+- **Future Improvements:** Implementation of a "Self-RAG" loop to verify hallucination before showing the answer.
